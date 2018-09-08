@@ -1,0 +1,101 @@
+
+Action: 0
+Price: 6423.55
+Holding profit: 0.0005121778455838832
+Trading profit: 0.0
+Action: 0
+Price: 6428.62
+Holding profit: 0.00020377623813505608
+Trading profit: 0.0
+Action: 0
+Price: 6427.61
+Holding profit: 0.0003609428699005157
+Trading profit: 0.0
+Action: 0
+Price: 6427.86
+Holding profit: 0.00032203563861066264
+Trading profit: 0.0
+Action: 0
+Price: 6429.94
+Holding profit: -1.5552244654326586e-06
+Trading profit: 0.0
+Action: 0
+Price: 6429.97
+Holding profit: -6.220868837614191e-06
+Trading profit: 0.0
+Action: 0
+Price: 6431.34
+Holding profit: -0.00021923891444086685
+Trading profit: 0.0
+Action: 0
+Price: 6442.74
+Holding profit: -0.001988284487655756
+Trading profit: 0.0
+Action: 0
+Price: 6438.51
+Holding profit: -0.0013326064570839957
+Trading profit: 0.0
+Action: 0
+Price: 6436.7
+Holding profit: -0.0010517811922257092
+Trading profit: 0.0
+Action: 0
+Price: 6433.99
+Holding profit: -0.0006310236727131713
+Trading profit: 0.0
+Action: 0
+Price: 6435.06
+Holding profit: -0.0007971953641457974
+Trading profit: 0.0
+Action: 0
+Price: 6435.1
+Holding profit: -0.0008034063184720885
+Trading profit: 0.0
+Action: 0
+Price: 6437.65
+Holding profit: -0.0011991953585546167
+Trading profit: 0.0
+Action: 0
+Price: 6437.0
+Holding profit: -0.001098337734969701
+Trading profit: 0.0
+Action: 0
+Price: 6437.21
+Holding profit: -0.00113092473291998
+Trading profit: 0.0
+Action: 0
+Price: 6435.33
+Holding profit: -0.0008391178074783623
+Trading profit: 0.0
+Action: 0
+Price: 6437.01
+Holding profit: -0.0010998895449906287
+Trading profit: 0.0
+Action: 0
+Price: 6436.96
+Holding profit: -0.0010921304466704473
+Trading profit: 0.0
+Action: 0
+Price: 6436.96
+Holding profit: -0.0010921304466704473
+Trading profit: 0.0
+Action: 0
+Price: 6436.96
+Holding profit: -0.0010921304466704473
+Trading profit: 0.0
+Action: 0
+Price: 6438.92
+Holding profit: -0.001396196877737177
+Trading profit: 0.0
+Action: 0
+Price: 6439.21
+Holding profit: -0.0014411705783783368
+Trading profit: 0.0
+Action: 0
+Price: 6442.03
+Holding profit: -0.0018782899179294876
+Trading profit: 0.0
+Action: 0
+Price: 6440.82
+Holding profit: -0.0016907785033581924
+Trading profit: 0.0
